@@ -3,29 +3,29 @@
 
 **Key Contributions**:
 
-    Designed and programmed the calculator logic using C language for 8051 microcontroller.
+Designed and programmed the calculator logic using C language for 8051 microcontroller.
 
-    Simulated the project in Proteus to validate functionality and troubleshoot errors.
+Simulated the project in Proteus to validate functionality and troubleshoot errors.
 
-    Integrated user interface elements for input and output.
+Integrated user interface elements for input and output.
 
 **Technologies Used**:
     
-    8051 microcontroller
+8051 microcontroller
 
-    Proteus simulation software
+Proteus simulation software
 
-    C language programming
+C language programming
 
 **Skills Demonstrated**:
 
-    Proficiency in embedded systems development.
+Proficiency in embedded systems development.
 
-    Ability to write efficient code in C language.
+Ability to write efficient code in C language.
 
-    Experience with simulation tools for testing and validation.
+Experience with simulation tools for testing and validation.
 
-    Problem-solving skills in troubleshooting and debugging.
+Problem-solving skills in troubleshooting and debugging.
 
 **Outcome**: Successfully created a fully functional calculator capable of performing arithmetic operations, providing hands-on experience with microcontroller programming and simulation.
 
